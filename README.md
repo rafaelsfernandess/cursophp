@@ -6,15 +6,15 @@
 ### Basicos
 
 - Basico sobre a linguagem php
- - - Comentarios
- - - CSS
- - - Desafios
- - - HTML
- - - Olá mundo
+ - Comentarios
+ - CSS
+ - Desafios
+ - HTML
+ - Olá mundo
 
  ### Tipos
- - - Aritiméticos 
- - - Int
- - - Float
- - - String
- - - Desafio
+ - Aritiméticos 
+ - Int
+ - Float
+ - String
+ - Desafio
