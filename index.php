@@ -36,6 +36,27 @@
                         <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapa</a></li>
+
+                    </ul>
+                </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=escopo">Funções & Escopo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_retorno">Argumentos & Retorno</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Desafio Palindromo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_padrao">Argumentos Padrão</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=funcao_anonima">Função Anonima</a></li>
+
+                    </ul>
+                </div>
                 
             </nav>
         </div>
