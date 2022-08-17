@@ -55,6 +55,13 @@
                         <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipo</a></li>
                         <li><a href="exercicio.php?dir=funcoes&file=funcao_anonima">Função Anonima</a></li>
                         <li><a href="exercicio.php?dir=funcoes&file=closure_collable">Closure e Collable</a></li>
+                    </ul>
+                </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>6. Classes</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=classes&file=classes">Classes</a></li>
+                        <li><a href="exercicio.php?dir=classes&file=construtor_destrutor">Construtor & Destrutor</a></li>
 
                     </ul>
                 </div>
